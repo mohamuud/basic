@@ -1,4 +1,5 @@
 #Evc plus program
+# VCS test only , is'nt complited yet
 import random
 print("- EVC Plus- Fadlan gali PIN-kaaga(Enter PIN) ")
 numbers = [{ "mohamuud" : 615379757} ,{ "sahra" : 615337844} ,{"shukri" : 615339865},{"shamso" :615444634},{"daahir" :615326753},{"naima" :615912339},{"faarax" :616433286}]
