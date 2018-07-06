@@ -16,7 +16,7 @@ info = {
     2 : [0,89,7]
 }
 # testing commit
-#thrid commit 2
+#thrid commit 2we
 balance = 100
 card_bala = 0
 PIN = int(input())
