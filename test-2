@@ -6,7 +6,7 @@ print("Enter the the key and the value to create New dict")
 n_dict= {}
 while True:
     word = input()
-    if word.split() in words:
+    if word in words:
         print("its removed that word it's illegal ")
         continue
     else:
