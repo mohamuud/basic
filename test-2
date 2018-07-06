@@ -1,0 +1,18 @@
+# prytho program that checks the word
+# program is'nt complited yet. github VCS test only
+words = ["qashin", "wayn" ,"Energy" , "sound" , "reality" , "drink" , "smoke" , "swallow"]
+
+print("Enter the the key and the value to create New dict")
+n_dict= {}
+while True:
+    word = input()
+    if word.split() in words:
+        print("its removed that word it's illegal ")
+        continue
+    else:
+        w = word.split(",")
+        if len(w) == 2:
+            n_dict[w[0]] = w[1]
+            print("good , it's done")
+        else:
+            print("try again please: Enter two words saprate with comma" )
