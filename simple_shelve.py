@@ -1,4 +1,4 @@
-simple program to use shelve (very simple way to store data into your computer)
+#simple program to use shelve (very simple way to store data into your computer)
 import shelve
 print("This program Using shelve module")
 ch = int(input("Enter the option 1 for Entry or 0 for retrive \n "))
