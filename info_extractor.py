@@ -72,7 +72,7 @@ elif int(ch) == 2:
         file_2 = open("phone.txt", "a")
         file_2.write(str(result_2))
         file_2.close()
-        print("Updated The Data.txt file in This directory {}".format(os.getcwd()))
+        print("Updated The phone.txt file in This directory {}".format(os.getcwd()))
     else:
         print("We can't find matched result")
 
