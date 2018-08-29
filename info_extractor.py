@@ -4,7 +4,7 @@
 # simple python script to extract email and phones // uses pyperclip module to copy and paste.
 # next update we will use urllip and requestes modules to get the data instead of pyperclip.
 # note_  you can use sys and sys.argv[parameter index] module to use this Script  in the command line.
-# download requirements pyperclip before you ran the script , other modules came with python 3.
+# download requirement pyperclip before you run the script , other modules came with python 3.
 import os
 import sys
 import pyperclip
